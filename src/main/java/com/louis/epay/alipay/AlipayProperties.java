@@ -11,8 +11,6 @@ import org.springframework.stereotype.Component;
 
 /**
  * 应用启动加载文件
- * @author Louis
- * @date Dec 12, 2018
  */
 @Component
 public class AlipayProperties {

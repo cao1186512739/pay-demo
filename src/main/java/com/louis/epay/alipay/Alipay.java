@@ -10,8 +10,6 @@ import com.alipay.api.request.AlipayTradePagePayRequest;
 
 /**
  * 支付宝支付接口
- * @author Louis
- * @date Dec 12, 2018
  */
 @Component
 public class Alipay {

@@ -8,8 +8,6 @@ import com.louis.epay.alipay.AlipayProperties;
 
 /**
  * 配置文件监听器，用来加载自定义配置文件
- * @author Louis
- * @date Dec 12, 2018
  */
 @Component
 public class PropertiesListener implements ApplicationListener<ApplicationStartedEvent> {

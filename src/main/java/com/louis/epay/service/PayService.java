@@ -5,8 +5,6 @@ import com.louis.epay.alipay.AlipayBean;
 
 /**
  * 支付服务
- * @author Louis
- * @date Dec 12, 2018
  */
 public interface PayService {
 
